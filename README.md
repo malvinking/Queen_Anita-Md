@@ -18,8 +18,11 @@
 </p>
 <p align='center'>
     </p>
----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
 
+ ## Gojou-MD Deployment Methods
+ 
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/DeeCeeXxx/Queen_Anita-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
