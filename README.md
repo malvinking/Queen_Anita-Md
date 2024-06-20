@@ -18,3 +18,7 @@
 </p>
 <p align='center'>
     </p>
+
+    ### 1. FORK THIS REPO
+
+<a href='https://github.com/DeeCeeXxx/Queen_Anita-Md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
