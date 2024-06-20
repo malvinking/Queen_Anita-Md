@@ -5,6 +5,7 @@
     "whatsapp bot"
   ],
   "repository": "https://github.com/DeeCeeXxx/Queen_Anita-Md",
+  "logo": "https://telegra.ph/file/903023544023284537f89.jpg",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
