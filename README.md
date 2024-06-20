@@ -7,4 +7,5 @@
 <p align="center">
 <img src="https://telegra.ph/file/b45eca3c83497c8365fc8.jpg"/> 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p> 
+ #### ```TOTAL PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
