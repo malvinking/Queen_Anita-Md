@@ -6,5 +6,4 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/b45eca3c83497c8365fc8.jpg"/> 
-</p>
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
